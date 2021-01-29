@@ -1,0 +1,51 @@
+@import './_home';
+@import './_recipes';
+$primary-color: white;
+$text-color: #444242;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Goldman', cursive;
+} 
+body {
+    background: $primary-color;
+    color: $text-color; 
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+    float: right;
+  }
+  .nav-links {
+    display: flex;
+    position: absolute;
+    right: 0px;
+    list-style: none;
+  }
+  .nav-links li {
+    color: black;
+    z-index: 2;
+    padding: 1.5rem;
+    font-size: 2.5rem;
+    color: $text-color;
+  }
+
+  .nav-links li:hover {
+    color: black;
+  }
+
+.big-text {
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    font-size: 7rem;
+    color: $text-color;
+  }
+  
