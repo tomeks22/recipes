@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/recipes/static/css/main.f91c316c.chunk.css",
+    "main.js": "/recipes/static/js/main.b4234c5c.chunk.js",
+    "main.js.map": "/recipes/static/js/main.b4234c5c.chunk.js.map",
+    "runtime-main.js": "/recipes/static/js/runtime-main.c41fad90.js",
+    "runtime-main.js.map": "/recipes/static/js/runtime-main.c41fad90.js.map",
+    "static/js/2.8db4084a.chunk.js": "/recipes/static/js/2.8db4084a.chunk.js",
+    "static/js/2.8db4084a.chunk.js.map": "/recipes/static/js/2.8db4084a.chunk.js.map",
+    "static/js/3.e0c8093d.chunk.js": "/recipes/static/js/3.e0c8093d.chunk.js",
+    "static/js/3.e0c8093d.chunk.js.map": "/recipes/static/js/3.e0c8093d.chunk.js.map",
+    "index.html": "/recipes/index.html",
+    "static/css/main.f91c316c.chunk.css.map": "/recipes/static/css/main.f91c316c.chunk.css.map",
+    "static/js/2.8db4084a.chunk.js.LICENSE.txt": "/recipes/static/js/2.8db4084a.chunk.js.LICENSE.txt",
+    "static/media/cloud1.deebc7b5.png": "/recipes/static/media/cloud1.deebc7b5.png",
+    "static/media/cloud2.d30b116b.png": "/recipes/static/media/cloud2.d30b116b.png",
+    "static/media/cloud3.9328a85b.png": "/recipes/static/media/cloud3.9328a85b.png",
+    "static/media/cloud4.d6d2482c.png": "/recipes/static/media/cloud4.d6d2482c.png",
+    "static/media/cloud5.2b00aa33.png": "/recipes/static/media/cloud5.2b00aa33.png",
+    "static/media/main.css": "/recipes/static/media/front_drink.5f26b55a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c41fad90.js",
+    "static/js/2.8db4084a.chunk.js",
+    "static/css/main.f91c316c.chunk.css",
+    "static/js/main.b4234c5c.chunk.js"
+  ]
+}
